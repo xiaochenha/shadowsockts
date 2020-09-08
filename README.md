@@ -1,4 +1,4 @@
-#**shadowsockts服务器端配置**
+**shadowsockts服务器端配置**
 
 **服务器端一键安装脚本**
 
